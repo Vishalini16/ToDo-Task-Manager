@@ -34,23 +34,23 @@ This app was developed as part of a hackathon challenge hosted by [Katomaran](ht
 
 ---
 
-## 🔥 Features
+##  Features
 
-- ✅ **Google Sign-In** using Firebase Auth  
-- 📅 **Add / Edit / Delete Tasks**  
-- 🔁 **Swipe-to-Delete** with confirmation  
-- 🎯 **Mark tasks as Completed or Pending**  
-- 🔍 **Search Tasks** by title or description  
-- 🔃 **Pull-to-Refresh**  
-- 🗂️ **Tabbed Filtering:** All / Completed / Pending  
-- ☁️ **Firestore Sync:** Tasks stored per user  
-- 🎨 **Beautiful UI:** Styled with `blue` themed Material design  
-- 🔐 Persistent login — skip login if already authenticated  
-- ☁️ **Firebase Crashlytics** ready (add key if enabled)
+- **Google Sign-In** using Firebase Auth  
+- **Add / Edit / Delete Tasks**  
+- **Swipe-to-Delete** with confirmation  
+- **Mark tasks as Completed or Pending**  
+- **Search Tasks** by title or description  
+- **Pull-to-Refresh**  
+- **Tabbed Filtering:** All / Completed / Pending  
+- **Firestore Sync:** Tasks stored per user  
+- **Beautiful UI:** Styled with `blue` themed Material design  
+- Persistent login — skip login if already authenticated  
+- **Firebase Crashlytics** ready (add key if enabled)
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```bash
 todo_task_app/
